@@ -1,25 +1,5 @@
 List OF CONTENT
-This line from new Bug Branch
-
-
-This code from Master Branch
-
-
-
- Initializing a repository
-  - Staging changes
-
 
 Creating Snapshots
   - Initializing a repository
   - Staging changes
-
-   Initializing a repository
-  - Staging changes
-
-
-  List OF CONTENT
-This line from new Bug Branch
-
-
-This code from Master Branch
