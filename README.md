@@ -1,16 +1,12 @@
-We will be having an Git && Command Line session at 11.50 AM today. Please join the session using the below link,
+We will be having an Git && Command Line session today. Please join the session using the below link,
 Topics to be covered :
-Tagging
-Browsing History using VS Code
-BRANCHING && MERGING 
-what is Branching ?
-Get a repository
-Working with branches
-Comparing Branches
-Stashing 
-Merging
-Fast Forward Merge
-Three way merge
-Viewing Merged && Unmerged Branches
+Stashing
+Merge Conflicts
+Merge Tool (Ignore)
+Undoing a Faulty merge
+Squash Merge
+Rebasing
+Cherry Picking
+Picking file from another Branch
 
 https://meet.google.com/qav-skzo-day
