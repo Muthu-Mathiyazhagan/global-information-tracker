@@ -1,4 +1,4 @@
-TABLE OF CONTENT
+Array OF CONTENT
 This line from new Bug Branch
 
 Creating Snapshots
