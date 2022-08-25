@@ -1,6 +1,20 @@
 List OF CONTENT
 This line from new Bug Branch
 
+List OF CONTENT
+This line from new Bug Branch
+
+Creating Snapshots
+  - Initializing a repository
+  - Staging changes
+
+Creating Snapshots
+  - Initializing a repository
+  - Staging changes
+
+  List OF CONTENT
+This line from new Bug Branch
+
 Creating Snapshots
   - Initializing a repository
   - Staging changes
