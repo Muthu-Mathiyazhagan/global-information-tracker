@@ -1,17 +1,21 @@
-<h3><i>Squash merge </i> </h3>
+<h4><i>Rebase </i> </h4>
 
 You can abort while doing merge only;
 git merge --abort
 
+When the REPO age grows we will have lot of Branches and Divergence,
+To Reduce the Divergence and Maintain Linear History/Path we will use this.
+We need to be very Consious while rebasing.
 
-git merge --squash bugfix # Performs a squash merge
----
-* This not like regular Merge but Regular Commit
-* this will add new changes on top of Master
+--------
+If you are only person working on that BRANCH, you can do.
+Can anyone tell me Why ?
 
+---------
+git rebase master
+git rebase --continue
+git rebase --skip
+git rebase --abort
+---------
+git config --global mergetool.keepBackup flase
 
-To Maintain Linear History :
-This is not mandatory but good to have
-
-* Always Remember to Delete Merged Branch if you dont need no longer,
-Because that POINTER (Branching) will create confutions in Future
