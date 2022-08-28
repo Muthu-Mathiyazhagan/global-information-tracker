@@ -1,0 +1,23 @@
+{
+  "name": "mars",
+  "version": "1.0.0",
+  "description": "<h4><i>Cherry-pick </i> </h4>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muthu-Mathiyazhagan/global-information-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muthu-Mathiyazhagan/global-information-tracker/issues"
+  },
+  "homepage": "https://github.com/Muthu-Mathiyazhagan/global-information-tracker#readme",
+  "devDependencies": {
+    "jest": "^29.0.1"
+  }
+}
